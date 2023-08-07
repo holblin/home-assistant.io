@@ -2,6 +2,7 @@
 title: Tesla Wall Connector
 description: Instructions on how to integrate Tesla Wall Connector (Gen 3) into Home Assistant.
 ha_category:
+  - Car
   - Binary Sensor
   - Energy
   - Sensor
